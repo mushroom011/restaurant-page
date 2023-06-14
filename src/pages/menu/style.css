@@ -1,0 +1,15 @@
+.cards {
+    text-align: center;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 1.25rem;
+}
+
+.card {
+    padding: 1.25rem;
+    background-color: #ECDDD6;
+}
+
+.card__image {
+    width: 17.7rem;
+}

@@ -1,0 +1,11 @@
+.home-content {
+    min-height: 550px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.text {
+    color: #ffffff;
+    text-align: center;
+}
